@@ -10,5 +10,5 @@
 	branch = trailblazer
 [submodule "src/cubeb-pulse-rs"]
 	path = src/cubeb-pulse-rs
-	url = https://github.com/mozilla/cubeb-pulse-rs
-	branch = dev
+	url = https://github.com/shumvgolove/cubeb-pulse-rs
+	branch = simplex
